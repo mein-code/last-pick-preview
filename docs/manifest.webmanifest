@@ -1,0 +1,26 @@
+{
+  "id": "./",
+  "name": "라스트픽 · 선택의 두 가지 길",
+  "short_name": "라스트픽",
+  "description": "나의 선택과 다른 선택, 같은 시작에서 다른 삶을 만나는 두 게임.",
+  "lang": "ko",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#081b20",
+  "theme_color": "#081b20",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
